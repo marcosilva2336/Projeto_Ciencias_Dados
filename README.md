@@ -1,22 +1,6 @@
 # Análise de Dados e Modelos Preditivos para Diagnóstico
 
 Este projeto realiza uma análise detalhada de dados de diagnóstico de câncer de mama e aplica modelos de machine learning para prever a presença de células malignas ou benignas. Ele utiliza técnicas de pré-processamento, análise exploratória e treinamento de diferentes modelos, além de uma avaliação comparativa dos resultados.
-
----
-
-## 📋 Tabela de Conteúdos
-
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Estrutura do Projeto](#estrutura-do-projeto)
-4. [Pré-processamento dos Dados](#pré-processamento-dos-dados)
-5. [Análise Exploratória](#análise-exploratória)
-6. [Treinamento e Avaliação dos Modelos](#treinamento-e-avaliação-dos-modelos)
-7. [Modelos Utilizados e Resultados](#modelos-utilizados-e-resultados)
-8. [Como Executar o Projeto](#como-executar-o-projeto)
-9. [Possíveis Melhorias](#possíveis-melhorias)
-10. [Autor](#autor)
-
 ---
 
 ## 📝 Descrição do Projeto
